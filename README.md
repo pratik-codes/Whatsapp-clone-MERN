@@ -1,5 +1,7 @@
 ![image](https://github.com/pratiktiwari1212/Whatsapp-clone-MERN/blob/main/wp-frontend.png)
 # WHATSAPP CLONE
+- My efforts on making an application close to whatsapp that allow realtime text transfer easily.
+
 ## Tech Stack 
 - M - MongoDb
 - E - Express
